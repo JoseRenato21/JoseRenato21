@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenharia de Computação · CEFET/RJ<br>
-  <b>Inteligência artificial aplicada</b> · Dados · Redes e segurança
+  <b>LLMs aplicados</b> · Dados · Redes e segurança
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 <br>
 
-Estudo e construo sistemas que colocam modelos de linguagem para trabalhar de verdade: servir e comparar modelos locais, avaliá-los contra adversários e sustentá-los com dados confiáveis e infraestrutura segura. Procuro estágio em inteligência artificial.
+Trabalho com modelos de linguagem (LLMs) na prática: servir e comparar modelos locais, avaliá-los contra adversários e sustentá-los com dados confiáveis e infraestrutura segura. Procuro estágio na área.
 
 ## Em destaque: iniciação científica
 
-**Honeypots adaptativos contra atacantes de IA.** Um honeypot SSH cujas respostas são geradas por LLMs e que aprende sozinho o que o denuncia. Duas IAs trabalham em ciclo fechado: o **Catatau** controla o honeypot nas camadas de protocolo e de shell, e a **Zé ComeIA** analisa os logs e devolve correções.
+**Honeypots adaptativos contra atacantes baseados em LLM.** Um honeypot SSH cujas respostas são geradas por LLMs e que aprende sozinho o que o denuncia. Duas IAs trabalham em ciclo fechado: o **Catatau** controla o honeypot nas camadas de protocolo e de shell, e a **Zé ComeIA** analisa os logs e devolve correções.
 
 ```mermaid
 flowchart LR
@@ -86,7 +86,7 @@ flowchart LR
 
 <table>
   <tr>
-    <td width="170" valign="top"><b>Inteligência artificial</b></td>
+    <td width="170" valign="top"><b>LLMs</b></td>
     <td>
       <img src="https://img.shields.io/badge/LLMs-0f6b5c?style=flat-square" alt="LLMs">
       <img src="https://img.shields.io/badge/Ollama-0f6b5c?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
