@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenharia de Computação · CEFET/RJ<br>
-  Desenvolvimento · Dados · Redes · Segurança · <b>LLMs</b>
+  Dados · Desenvolvimento · <b>LLMs</b> · Segurança · Redes
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-Estudante de Engenharia de Computação em busca de estágio. Venho estudando, com muito interesse, desenvolvimento de software, dados, redes, segurança da informação e modelos de linguagem (LLMs), e transformo o que aprendo em projetos que funcionam.
+Estudante de Engenharia de Computação em busca de estágio. Venho estudando, com muito interesse, dados, desenvolvimento de software, modelos de linguagem (LLMs), segurança da informação e redes, e transformo o que aprendo em projetos que funcionam.
 
 ## Em destaque: iniciação científica
 
@@ -121,6 +121,17 @@ flowchart LR
     </td>
   </tr>
   <tr>
+    <td width="170" valign="top"><b>Segurança</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Suricata-b42318?style=flat-square" alt="Suricata">
+      <img src="https://img.shields.io/badge/pfSense-b42318?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+      <img src="https://img.shields.io/badge/Kali%20Linux-b42318?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+      <img src="https://img.shields.io/badge/Nmap-b42318?style=flat-square" alt="Nmap">
+      <img src="https://img.shields.io/badge/Honeypots-b42318?style=flat-square" alt="Honeypots">
+      <img src="https://img.shields.io/badge/Zero%20Trust-b42318?style=flat-square" alt="Zero Trust">
+    </td>
+  </tr>
+  <tr>
     <td width="170" valign="top"><b>Redes</b></td>
     <td>
       <img src="https://img.shields.io/badge/Cisco%20IOS-17692f?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS">
@@ -130,17 +141,6 @@ flowchart LR
       <img src="https://img.shields.io/badge/OpenVPN-17692f?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN">
       <img src="https://img.shields.io/badge/Zabbix-17692f?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
       <img src="https://img.shields.io/badge/Linux-17692f?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-    </td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><b>Segurança</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Suricata-b42318?style=flat-square" alt="Suricata">
-      <img src="https://img.shields.io/badge/pfSense-b42318?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
-      <img src="https://img.shields.io/badge/Kali%20Linux-b42318?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-      <img src="https://img.shields.io/badge/Nmap-b42318?style=flat-square" alt="Nmap">
-      <img src="https://img.shields.io/badge/Honeypots-b42318?style=flat-square" alt="Honeypots">
-      <img src="https://img.shields.io/badge/Zero%20Trust-b42318?style=flat-square" alt="Zero Trust">
     </td>
   </tr>
 </table>
