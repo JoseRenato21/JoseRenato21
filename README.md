@@ -84,16 +84,66 @@ flowchart LR
 
 ## Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,react,postgres,mysql,docker,linux,aws,azure,git&perline=12" alt="Tecnologias">
-</p>
-
-| Área | O que uso |
-|------|-----------|
-| **IA** | LLMs, Ollama, fine-tuning com QLoRA, agentes, avaliação de modelos |
-| **Dados** | SQL, dbt, ELT e arquitetura medalhão, data lake (S3 e Athena) |
-| **Redes** | Roteamento (OSPF, BGP), VLANs, SSH e túneis, OpenVPN, pfSense, Zabbix, Cisco IOS |
-| **Segurança** | Suricata, iptables, honeypots, Kali Linux, Nmap, PKI e Zero Trust |
+<table>
+  <tr>
+    <td width="170" valign="top"><b>Inteligência artificial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLMs-0f6b5c?style=flat-square" alt="LLMs">
+      <img src="https://img.shields.io/badge/Ollama-0f6b5c?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/Fine--tuning%20QLoRA-0f6b5c?style=flat-square" alt="Fine-tuning QLoRA">
+      <img src="https://img.shields.io/badge/Agentes%20de%20IA-0f6b5c?style=flat-square" alt="Agentes de IA">
+      <img src="https://img.shields.io/badge/Avaliação%20de%20modelos-0f6b5c?style=flat-square" alt="Avaliação de modelos">
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><b>Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-1f4f99?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQL-1f4f99?style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/dbt-1f4f99?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+      <img src="https://img.shields.io/badge/PostgreSQL-1f4f99?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MySQL-1f4f99?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/AWS%20S3%20e%20Athena-1f4f99?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS S3 e Athena">
+      <img src="https://img.shields.io/badge/Docker-1f4f99?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><b>Desenvolvimento</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-8a5300?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-8a5300?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/React-8a5300?style=flat-square&logo=react&logoColor=white" alt="React">
+      <img src="https://img.shields.io/badge/JavaScript-8a5300?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+      <img src="https://img.shields.io/badge/C-8a5300?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/Assembly-8a5300?style=flat-square" alt="Assembly">
+      <img src="https://img.shields.io/badge/Git-8a5300?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/pytest-8a5300?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><b>Redes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cisco%20IOS-17692f?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS">
+      <img src="https://img.shields.io/badge/OSPF%20e%20BGP-17692f?style=flat-square" alt="OSPF e BGP">
+      <img src="https://img.shields.io/badge/VLANs-17692f?style=flat-square" alt="VLANs">
+      <img src="https://img.shields.io/badge/SSH%20e%20túneis-17692f?style=flat-square" alt="SSH e túneis">
+      <img src="https://img.shields.io/badge/OpenVPN-17692f?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN">
+      <img src="https://img.shields.io/badge/Zabbix-17692f?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix">
+      <img src="https://img.shields.io/badge/Linux-17692f?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+    </td>
+  </tr>
+  <tr>
+    <td width="170" valign="top"><b>Segurança</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Suricata-b42318?style=flat-square" alt="Suricata">
+      <img src="https://img.shields.io/badge/pfSense-b42318?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense">
+      <img src="https://img.shields.io/badge/Kali%20Linux-b42318?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+      <img src="https://img.shields.io/badge/Nmap-b42318?style=flat-square" alt="Nmap">
+      <img src="https://img.shields.io/badge/Honeypots-b42318?style=flat-square" alt="Honeypots">
+      <img src="https://img.shields.io/badge/Zero%20Trust-b42318?style=flat-square" alt="Zero Trust">
+    </td>
+  </tr>
+</table>
 
 ## Experiência e formação
 
