@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenharia de Computação · CEFET/RJ<br>
-  <b>LLMs aplicados</b> · Dados · Redes e segurança
+  Desenvolvimento · Dados · Redes · Segurança · <b>LLMs</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-Trabalho com modelos de linguagem (LLMs) na prática: servir e comparar modelos locais, avaliá-los contra adversários e sustentá-los com dados confiáveis e infraestrutura segura. Procuro estágio na área.
+Estudante de Engenharia de Computação em busca de estágio. Venho estudando, com muito interesse, desenvolvimento de software, dados, redes, segurança da informação e modelos de linguagem (LLMs), e transformo o que aprendo em projetos que funcionam.
 
 ## Em destaque: iniciação científica
 
